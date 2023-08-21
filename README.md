@@ -11,7 +11,9 @@ Exibição de Clientes: Após o cadastro, os clientes serão exibidos em uma lis
 ## Tecnologias Utilizadas
 
 HTML: Utilizado para criar a estrutura básica da página, incluindo o formulário e a lista de clientes.
+
 CSS: Utilizado para estilizar a página e torná-la visualmente atraente. Também é usado para criar respostas visuais aos estados de erro e sucesso.
+
 JavaScript: Utilizado para validar os campos do formulário, adicionar clientes à lista e manipular a exibição de mensagens de erro/sucesso.
 
 ## Como Utilizar
@@ -26,4 +28,5 @@ Se todas as informações forem inseridas corretamente, o cliente será adiciona
 ## Como acessar
 
 Para acessar esse projeto entre no link https://gustavosod.github.io/cadastro-cliente/
+
 Deploy feito no github pages.
