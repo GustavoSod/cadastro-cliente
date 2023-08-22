@@ -1,4 +1,4 @@
-# Projeto Básico de Cadastro de Clientes
+# Crud Básico de Cadastro de Clientes
 
 Este é um projeto simples de cadastro de clientes desenvolvido utilizando HTML, CSS e JavaScript. O objetivo deste projeto é demonstrar como criar uma interface de usuário para cadastrar informações básicas de clientes.
 
